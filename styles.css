@@ -7,6 +7,14 @@
     border-radius: 5px;
     font-size: 16px;
 }
+.gig-item {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+}
+.gig-item img {
+    border-radius: 10px;
+}
 .gig-button:hover {
     background-color: #ff4500;
 }
